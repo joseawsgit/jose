@@ -1,1 +1,2 @@
 HI JOSE
+Welcome to GIT
